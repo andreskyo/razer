@@ -1,0 +1,30 @@
+body{
+    background-image:url("/image/Razer/1.png")
+}
+
+
+.elH1{
+    margin:auto;
+    background-image: url("/image/Razer/4.jpg");
+    width:auto;
+}
+.elH1 h1{
+    padding: 15px;
+    text-align: center;
+    color:rgb(64, 243, 10);
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 40px;
+}
+.elLorem{
+    background-color: black;
+    width: 300px;
+    margin:auto;
+    
+}
+.lorem{
+    padding: 15px;
+    color:white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 18px;
+}
